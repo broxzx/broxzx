@@ -35,4 +35,8 @@ I am a Java developer beginner who started my journey in winter 2022. Over the p
 
 <br></br>
 
+<p align="center">
+ <img width="1000" src="assets/github-user-contribution.svg" alt="snake"/>
+</p>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/broxzx?ext=activity)

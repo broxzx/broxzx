@@ -5,11 +5,6 @@ About me
 --------
 <br></br>
 I am a Java developer beginner who started my journey in winter 2022. Over the past six months, I have begun to showcase my projects on GitHub, utilizing various technology stacks. Recently, I have learnt some DevOps tools: K8s, Helm, Ansible, Jenkins and AWS. I am also passionate about algorithms and data structures; on LeetCode, I have solved over 900 tasks. In addition to Java, I am familiar with many technologies: Docker, SQL (PostgreSQL), NoSql(Redis, MongoDb), Git, Hibernate, Spring, Keycloak, ELK, Prometheus, Zipkin and design patterns.
-<br></br>
-* 🌍  I'm based in Denmark, Copenhagen
-* ✉️  You can contact me at [fyuizee@gmail.com](mailto:fyuizee@gmail.com)
-* 🤝  I'm open to collaborating on every project within my field
-<br></br>
 ### Skills
 
 <div align="center">  
